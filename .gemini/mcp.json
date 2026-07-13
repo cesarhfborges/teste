@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "painel-mcp": {
+      "type": "sse",
+      "url": "https://painel.chfb.com.br/mcp",
+      "headers": {
+        "Authorization": "Bearer SEU_TOKEN_AQUI"
+      }
+    }
+  }
+}
