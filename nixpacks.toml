@@ -14,7 +14,8 @@ providers = ["...", "php"]
         "php82Extensions.pdo_mysql",
         "php82Extensions.mbstring",
         "php82Extensions.xml",
-        "nginx"
+        "nginx",
+        "curl"
     ]
 
 [phases.install]
